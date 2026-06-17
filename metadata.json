@@ -1,0 +1,6 @@
+{
+  "name": "Smart Resume Screening System",
+  "description": "An interactive, AI-powered recruitment intelligence platform that parses resumes, matches candidates against Job Descriptions using Gemini, performs rich skill visualization, and generates customized interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
