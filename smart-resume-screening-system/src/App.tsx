@@ -725,10 +725,10 @@ export default function App() {
       {/* Editorial Top Navigation Header */}
       <header className="border-b border-slate-200 px-4 sm:px-8 py-4 flex flex-col md:flex-row justify-between items-center bg-white gap-4 shrink-0 sticky top-0 z-50 shadow-sm">
         <div className="flex items-center gap-4 self-start md:self-auto">
-          <div className="w-10 h-10 bg-indigo-600 rounded-full flex items-center justify-center text-white font-serif font-black text-xl shadow-sm">R</div>
+          <div className="w-10 h-10 bg-indigo-600 rounded-full flex items-center justify-center text-white font-serif font-black text-xl shadow-sm">SK</div>
           <div>
             <h1 className="text-[10px] font-black uppercase tracking-widest text-indigo-600">AI Screening Pipeline</h1>
-            <p className="text-xl font-serif font-semibold italic text-slate-900 tracking-tight">Smart Resume Screening System</p>
+            <p className="text-xl font-serif font-semibold italic text-slate-900 tracking-tight">SK Smart Resume Screening System</p>
           </div>
         </div>
 
